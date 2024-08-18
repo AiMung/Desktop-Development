@@ -1,0 +1,15 @@
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\bin\Debug\2212420_Demo_Timer.exe.config
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\bin\Debug\2212420_Demo_Timer.exe
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\bin\Debug\2212420_Demo_Timer.pdb
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\2212420_Demo_Timer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\_2212420_Demo_Timer.Form1.resources
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\_2212420_Demo_Timer.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\2212420_Demo_Timer.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\2212420_Demo_Timer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\2212420_Demo_Timer.exe
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\2212420_Demo_Timer.pdb
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\_2212420_Demo_Timer.Demo_ImageList.resources
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\_2212420_Demo_Timer.frmTreeView.resources
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\_2212420_Demo_Timer.DemoError.resources
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\_2212420_Demo_Timer.OpenFileDialogandSaveFileDialog.resources
+C:\Users\ADMIN\OneDrive\Documents\Sql desktop\2212420_Nguyễn Ái Mừng_Chương 1 Tổng quan lập trình giao diện\2212420_Demo_Timer\2212420_Demo_Timer\obj\Debug\_2212420_Demo_Timer.DemoKeyEvent.resources
