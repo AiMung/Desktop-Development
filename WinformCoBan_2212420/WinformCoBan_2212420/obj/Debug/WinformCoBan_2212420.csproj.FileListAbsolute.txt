@@ -1,0 +1,10 @@
+C:\Users\PC602\Downloads\WinformCoBan_2212420\WinformCoBan_2212420\bin\Debug\WinformCoBan_2212420.exe.config
+C:\Users\PC602\Downloads\WinformCoBan_2212420\WinformCoBan_2212420\bin\Debug\WinformCoBan_2212420.exe
+C:\Users\PC602\Downloads\WinformCoBan_2212420\WinformCoBan_2212420\bin\Debug\WinformCoBan_2212420.pdb
+C:\Users\PC602\Downloads\WinformCoBan_2212420\WinformCoBan_2212420\obj\Debug\WinformCoBan_2212420.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\WinformCoBan_2212420\WinformCoBan_2212420\obj\Debug\WinformCoBan_2212420.MainForm.resources
+C:\Users\PC602\Downloads\WinformCoBan_2212420\WinformCoBan_2212420\obj\Debug\WinformCoBan_2212420.Properties.Resources.resources
+C:\Users\PC602\Downloads\WinformCoBan_2212420\WinformCoBan_2212420\obj\Debug\WinformCoBan_2212420.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\WinformCoBan_2212420\WinformCoBan_2212420\obj\Debug\WinformCoBan_2212420.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\WinformCoBan_2212420\WinformCoBan_2212420\obj\Debug\WinformCoBan_2212420.exe
+C:\Users\PC602\Downloads\WinformCoBan_2212420\WinformCoBan_2212420\obj\Debug\WinformCoBan_2212420.pdb

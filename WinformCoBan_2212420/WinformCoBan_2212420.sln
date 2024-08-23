@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformCoBan_2212420", "WinformCoBan_2212420\WinformCoBan_2212420.csproj", "{FFF9987E-0B66-413E-BBEB-DA32A31A3B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2212420_Bài2", "2212420_Bài2\2212420_Bài2.csproj", "{FCAB9940-1FE3-4969-B2EA-D908BD0FAD00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF9987E-0B66-413E-BBEB-DA32A31A3B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF9987E-0B66-413E-BBEB-DA32A31A3B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF9987E-0B66-413E-BBEB-DA32A31A3B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF9987E-0B66-413E-BBEB-DA32A31A3B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAB9940-1FE3-4969-B2EA-D908BD0FAD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAB9940-1FE3-4969-B2EA-D908BD0FAD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAB9940-1FE3-4969-B2EA-D908BD0FAD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAB9940-1FE3-4969-B2EA-D908BD0FAD00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90E515D9-C8B8-4A3A-B2EB-FE7F2BEDF924}
+	EndGlobalSection
+EndGlobal

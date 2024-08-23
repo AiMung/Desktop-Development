@@ -1,0 +1,12 @@
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\bin\Debug\TKForm2_2212420_Nguyễn Ái Mừng.exe.config
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\bin\Debug\TKForm2_2212420_Nguyễn Ái Mừng.exe
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\bin\Debug\TKForm2_2212420_Nguyễn Ái Mừng.pdb
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\obj\Debug\TKForm2_2212420_Nguyễn Ái Mừng.csproj.AssemblyReference.cache
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\obj\Debug\TKForm2_2212420_Nguyễn_Ái_Mừng.frmBai2.resources
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\obj\Debug\TKForm2_2212420_Nguyễn_Ái_Mừng.Properties.Resources.resources
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\obj\Debug\TKForm2_2212420_Nguyễn Ái Mừng.csproj.GenerateResource.cache
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\obj\Debug\TKForm2_2212420_Nguyễn Ái Mừng.csproj.CoreCompileInputs.cache
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\obj\Debug\TKForm2_2212420_Nguyễn Ái Mừng.exe
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\obj\Debug\TKForm2_2212420_Nguyễn Ái Mừng.pdb
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\obj\Debug\TKForm2_2212420_Nguyễn_Ái_Mừng.frmBai3.resources
+G:\học tập\TKForm2_2212420_Nguyễn Ái Mừng\TKForm2_2212420_Nguyễn Ái Mừng\obj\Debug\TKForm2_2212420_Nguyễn_Ái_Mừng.frmBai4.resources

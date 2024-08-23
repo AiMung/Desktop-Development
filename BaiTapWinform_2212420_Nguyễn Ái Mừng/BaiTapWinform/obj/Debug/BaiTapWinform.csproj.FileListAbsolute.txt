@@ -1,0 +1,13 @@
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\bin\Debug\BaiTapWinform.exe.config
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\bin\Debug\BaiTapWinform.exe
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\bin\Debug\BaiTapWinform.pdb
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\obj\Debug\BaiTapWinform.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\obj\Debug\BaiTapWinform.frmBai1.resources
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\obj\Debug\BaiTapWinform.frmChinh.resources
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\obj\Debug\BaiTapWinform.Properties.Resources.resources
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\obj\Debug\BaiTapWinform.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\obj\Debug\BaiTapWinform.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\obj\Debug\BaiTapWinform.exe
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\obj\Debug\BaiTapWinform.pdb
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\obj\Debug\BaiTapWinform.frmBai2.resources
+C:\Users\PC602\Downloads\BaiTapWinform\BaiTapWinform\obj\Debug\BaiTapWinform.frmBai3.resources

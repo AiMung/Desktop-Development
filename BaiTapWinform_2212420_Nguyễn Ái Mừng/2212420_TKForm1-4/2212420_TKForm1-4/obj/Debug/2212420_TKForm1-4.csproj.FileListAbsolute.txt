@@ -1,0 +1,11 @@
+C:\Users\PC602\Downloads\2212420_TKForm1-4\2212420_TKForm1-4\bin\Debug\2212420_TKForm1-4.exe.config
+C:\Users\PC602\Downloads\2212420_TKForm1-4\2212420_TKForm1-4\bin\Debug\2212420_TKForm1-4.exe
+C:\Users\PC602\Downloads\2212420_TKForm1-4\2212420_TKForm1-4\bin\Debug\2212420_TKForm1-4.pdb
+C:\Users\PC602\Downloads\2212420_TKForm1-4\2212420_TKForm1-4\obj\Debug\2212420_TKForm1-4.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2212420_TKForm1-4\2212420_TKForm1-4\obj\Debug\_2212420_TKForm1_4.frmBai1.resources
+C:\Users\PC602\Downloads\2212420_TKForm1-4\2212420_TKForm1-4\obj\Debug\_2212420_TKForm1_4.frmChinh.resources
+C:\Users\PC602\Downloads\2212420_TKForm1-4\2212420_TKForm1-4\obj\Debug\_2212420_TKForm1_4.Properties.Resources.resources
+C:\Users\PC602\Downloads\2212420_TKForm1-4\2212420_TKForm1-4\obj\Debug\2212420_TKForm1-4.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\2212420_TKForm1-4\2212420_TKForm1-4\obj\Debug\2212420_TKForm1-4.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2212420_TKForm1-4\2212420_TKForm1-4\obj\Debug\2212420_TKForm1-4.exe
+C:\Users\PC602\Downloads\2212420_TKForm1-4\2212420_TKForm1-4\obj\Debug\2212420_TKForm1-4.pdb
