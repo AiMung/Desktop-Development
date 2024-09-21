@@ -1,0 +1,10 @@
+G:\học tập\Billiard_Management\Billiard_Management\obj\Debug\Billiard_Management.csproj.AssemblyReference.cache
+G:\học tập\Billiard_Management\Billiard_Management\bin\Debug\Billiard_Management.exe.config
+G:\học tập\Billiard_Management\Billiard_Management\bin\Debug\Billiard_Management.exe
+G:\học tập\Billiard_Management\Billiard_Management\bin\Debug\Billiard_Management.pdb
+G:\học tập\Billiard_Management\Billiard_Management\obj\Debug\Billiard_Management.frmTrangChu.resources
+G:\học tập\Billiard_Management\Billiard_Management\obj\Debug\Billiard_Management.Properties.Resources.resources
+G:\học tập\Billiard_Management\Billiard_Management\obj\Debug\Billiard_Management.csproj.GenerateResource.cache
+G:\học tập\Billiard_Management\Billiard_Management\obj\Debug\Billiard_Management.csproj.CoreCompileInputs.cache
+G:\học tập\Billiard_Management\Billiard_Management\obj\Debug\Billiard_Management.exe
+G:\học tập\Billiard_Management\Billiard_Management\obj\Debug\Billiard_Management.pdb
