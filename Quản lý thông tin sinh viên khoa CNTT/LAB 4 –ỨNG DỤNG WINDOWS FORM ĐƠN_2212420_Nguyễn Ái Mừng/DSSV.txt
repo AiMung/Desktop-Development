@@ -1,0 +1,3 @@
+﻿B18DCCN123	Nguyen Van A	1	2000-01-01	DCCN18B	0987654321	nguyenvana@example.com	123 Nguyen Hue Street	Software Engineering,Database Management
+B19DCCN456	Tran Thi B	0	1998-02-14	DCCN19A	0123456789	tranthib@example.com	456 Tran Phu Street, Da Nang	Network Security
+B20DCCN789	Le Van C	1	2001-03-20	DCCN20C	098765432	levanc@example.com	789 Hung Vuong Street, Hanoi

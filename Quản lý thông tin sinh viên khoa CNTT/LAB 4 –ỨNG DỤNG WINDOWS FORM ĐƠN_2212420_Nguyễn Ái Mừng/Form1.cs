@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace LAB_4__ỨNG_DỤNG_WINDOWS_FORM_ĐƠN_2212420_Nguyễn_Ái_Mừng
 {
@@ -56,7 +57,9 @@ namespace LAB_4__ỨNG_DỤNG_WINDOWS_FORM_ĐƠN_2212420_Nguyễn_Ái_Mừng
             foreach (string t in s)
                 cn.Add(t);
             sv.ChuyenNganh = cn;
-            sv.Hinh = lvitem.SubItems[7].Text;
+            sv.Email = lvitem.SubItems[7].Text;
+            sv.Hinh = lvitem.SubItems[8].Text;
+            sv.SoDienThoai = lvitem.SubItems[9].Text;
             return sv;
         }
         //Thiết lập các thông tin lên controls sinh viên
@@ -64,18 +67,20 @@ namespace LAB_4__ỨNG_DỤNG_WINDOWS_FORM_ĐƠN_2212420_Nguyễn_Ái_Mừng
         {
             this.mtxtMSSV.Text = sv.MSSV;
             this.txtHoVaTen.Text = sv.HoVaTen;
+            this.dtpNgaySinh.Value = sv.NgaySinh;
+            this.txtDiaChi.Text = sv.DiaChi;
+            this.cbbLop.Text = sv.Lop;
             if (sv.Phai)
                 this.rbNam.Checked = true;
             else
                 this.rbNữ.Checked = true;
-this.dtpNgaySinh.Value = sv.NgaySinh; 
-            this.cbbLop.Text = sv.Lop; 
 
-            this.txtDiaChi.Text = sv.DiaChi;
-         
+            this.txtEmail.Text = sv.Email;
             this.txtHinh.Text = sv.Hinh;
-            this.pictureBox1.ImageLocation = sv.Hinh;
-           
+            this.mtxtSoDienThoai.Text = sv.SoDienThoai;
+
+
+
             for (int i = 0; i < this.checkedListBox1.Items.Count; i++)
                 this.checkedListBox1.SetItemChecked(i, false);
             foreach (string s in sv.ChuyenNganh)
@@ -87,6 +92,8 @@ this.dtpNgaySinh.Value = sv.NgaySinh;
                         this.checkedListBox1.SetItemChecked(i,
                         true);
             }
+
+
         }
         //Thêm sinh viên vào ListView
         private void ThemSV(SinhVien sv)
@@ -105,7 +112,9 @@ this.dtpNgaySinh.Value = sv.NgaySinh;
                 cn += s + ",";
             cn = cn.Substring(0, cn.Length - 1);
             lvitem.SubItems.Add(cn);
+            lvitem.SubItems.Add(sv.Email);
             lvitem.SubItems.Add(sv.Hinh);
+            lvitem.SubItems.Add(sv.SoDienThoai);
             this.lvDanhSachSinhVien.Items.Add(lvitem);
         }
         //Hiển thị các sinh viên trong qlsv lên ListView
@@ -121,32 +130,35 @@ this.dtpNgaySinh.Value = sv.NgaySinh;
 
         private void btnChonHinh_Click(object sender, EventArgs e)
         {
-            OpenFileDialog MoHinhAnh=new OpenFileDialog();
+            OpenFileDialog MoHinhAnh = new OpenFileDialog();
             MoHinhAnh.Filter = "Image File|*.jpeg;*.jpg;*.png;*.bmp;";
-            if(openFileLg.ShowDialog() == DialogResult.OK)
+            if (openFileLg.ShowDialog() == DialogResult.OK)
             {
-                try {txtHinh.Text = openFileLg.FileName;
-                pictureBox1.Image=Image.FromFile(openFileLg.FileName); 
-                }
-                catch(Exception ex)
+                try
                 {
-                    MessageBox.Show("Không thể mở file này vì phần mở rộng không phù hợp","Thông Báo",MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    txtHinh.Text=String.Empty;
+                    txtHinh.Text = openFileLg.FileName;
+                    pictureBox1.Image = Image.FromFile(openFileLg.FileName);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Không thể mở file này vì phần mở rộng không phù hợp", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    txtHinh.Text = String.Empty;
                 }
 
-            }else
-                {
-                MessageBox.Show("Bạn chưa chọn hình ảnh","Thông báo",MessageBoxButtons.OK,MessageBoxIcon.Error);
-                }   
+            }
+            else
+            {
+                MessageBox.Show("Bạn chưa chọn hình ảnh", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
 
 
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-            DialogResult result=MessageBox.Show("Bạn chắc chắn muốn thoát","Thông báo",MessageBoxButtons.YesNo,MessageBoxIcon.Question);
-            if(result==DialogResult.Yes) { Application.Exit(); }
-           
+            DialogResult result = MessageBox.Show("Bạn chắc chắn muốn thoát", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (result == DialogResult.Yes) { Application.Exit(); }
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -155,7 +167,7 @@ this.dtpNgaySinh.Value = sv.NgaySinh;
             qlsv.DocTuFile();
             LoadListView();
         }
-  //Khi chọn dòng sinh viên bên ListView
+        //Khi chọn dòng sinh viên bên ListView
         //thực hiện gán thông tin lên các control
         private void lvDanhSachSinhVien_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -186,6 +198,49 @@ this.dtpNgaySinh.Value = sv.NgaySinh;
                 this.qlsv.Them(sv);
                 this.LoadListView();
             }
+
+           
+        }
+
+        private void contextMenuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            if (e.ClickedItem.Text == "Xóa")
+            {
+                if (lvDanhSachSinhVien.SelectedItems.Count > 0)
+                {
+                    // Xác nhận với người dùng
+                    if (MessageBox.Show("Bạn có chắc chắn muốn xóa sinh viên này?", "Xác nhận", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                    {
+                        // Lấy MSSV của sinh viên cần xóa
+                        string mssv = lvDanhSachSinhVien.SelectedItems[0].SubItems[0].Text;
+
+                        // Gọi hàm xóa sinh viên
+                        if (XoaSinhVien(mssv))
+                        {
+                            // Xóa item khỏi ListView
+                            lvDanhSachSinhVien.Items.Remove(lvDanhSachSinhVien.SelectedItems[0]);
+                            MessageBox.Show("Xóa sinh viên thành công!");
+                        }
+                        else
+                        {
+                            MessageBox.Show("Xóa sinh viên thất bại!");
+                        }
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Vui lòng chọn một sinh viên để xóa.");
+                }
+            }
+        }
+
+        private bool XoaSinhVien(string mssv)
+        {
+            // Code để xóa sinh viên có MSSV tương ứng khỏi cơ sở dữ liệu
+            // ...
+
+            return true; // Trả về true nếu xóa thành công, false nếu thất bại
         }
     }
 }
+
