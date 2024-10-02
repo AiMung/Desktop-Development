@@ -1,0 +1,12 @@
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\bin\Debug\Form nhập thông tin sinh viên.exe.config
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\bin\Debug\Form nhập thông tin sinh viên.exe
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\bin\Debug\Form nhập thông tin sinh viên.pdb
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\obj\Debug\Form nhập thông tin sinh viên.csproj.AssemblyReference.cache
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\obj\Debug\Form_nhập_thông_tin_sinh_viên.Form1.resources
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\obj\Debug\Form_nhập_thông_tin_sinh_viên.Properties.Resources.resources
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\obj\Debug\Form nhập thông tin sinh viên.csproj.GenerateResource.cache
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\obj\Debug\Form nhập thông tin sinh viên.csproj.CoreCompileInputs.cache
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\obj\Debug\Form nhập thông tin sinh viên.exe
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\obj\Debug\Form nhập thông tin sinh viên.pdb
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\obj\Debug\Form_nhập_thông_tin_sinh_viên.frmThemMon.resources
+G:\học tập\Form nhập thông tin sinh viên\Form nhập thông tin sinh viên\obj\Debug\Form_nhập_thông_tin_sinh_viên.frmTimKiem.resources
