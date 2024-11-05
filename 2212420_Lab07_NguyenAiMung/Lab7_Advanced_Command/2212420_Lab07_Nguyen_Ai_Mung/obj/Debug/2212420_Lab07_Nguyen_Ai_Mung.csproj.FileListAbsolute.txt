@@ -1,0 +1,12 @@
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\bin\Debug\2212420_Lab07_Nguyen_Ai_Mung.exe.config
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\bin\Debug\2212420_Lab07_Nguyen_Ai_Mung.exe
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\bin\Debug\2212420_Lab07_Nguyen_Ai_Mung.pdb
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\obj\Debug\2212420_Lab07_Nguyen_Ai_Mung.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\obj\Debug\_2212420_Lab07_Nguyen_Ai_Mung.Form1.resources
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\obj\Debug\_2212420_Lab07_Nguyen_Ai_Mung.Properties.Resources.resources
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\obj\Debug\2212420_Lab07_Nguyen_Ai_Mung.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\obj\Debug\2212420_Lab07_Nguyen_Ai_Mung.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\obj\Debug\2212420_Lab07_Nguyen_Ai_Mung.exe
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\obj\Debug\2212420_Lab07_Nguyen_Ai_Mung.pdb
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\obj\Debug\_2212420_Lab07_Nguyen_Ai_Mung.FoodInfoForm.resources
+C:\Users\PC602\source\repos\Lab7_Advanced_Command\2212420_Lab07_Nguyen_Ai_Mung\obj\Debug\_2212420_Lab07_Nguyen_Ai_Mung.AddNewCategoryFood.resources
