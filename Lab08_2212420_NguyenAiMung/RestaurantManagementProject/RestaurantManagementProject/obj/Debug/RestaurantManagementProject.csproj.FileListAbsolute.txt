@@ -1,0 +1,15 @@
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.exe.config
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.exe
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.pdb
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\BusinessLogic.dll
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\DataAccess.dll
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\BusinessLogic.pdb
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\DataAccess.pdb
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.grbLeft.resources
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.Properties.Resources.resources
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.CopyComplete
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.exe
+C:\Users\PC602\source\repos\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.pdb

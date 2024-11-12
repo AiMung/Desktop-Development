@@ -1,0 +1,10 @@
+60;</td><td class="mdescRight">Returns the starting number in the range.  <a href="class_number_pool.html#a4175836370b8ef35a7644141a085d7fd">More...</a><br /></td></tr>
+<tr class="separator:a4175836370b8ef35a7644141a085d7fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fbe614d6cf0c0d43b65cf8b60523d4c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_number_pool.html#a7fbe614d6cf0c0d43b65cf8b60523d4c">getEnd</a> ()</td></tr>
+<tr class="memdesc:a7fbe614d6cf0c0d43b65cf8b60523d4c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the ending number in the range.  <a href="class_number_pool.html#a7fbe614d6cf0c0d43b65cf8b60523d4c">More...</a><br /></td></tr>
+<tr class="separator:a7fbe614d6cf0c0d43b65cf8b60523d4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_class_pool"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_class_pool')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="class_pool.html">Pool</a></td></tr>
+<tr class="memitem:a104b070e317895753cbdecb943bd613c inherit pub_methods_class_pool"><td class="memItemLeft" align="right" valign="top">QString&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_pool.html#a104b070e317895753cbdecb943bd613c">name</a> ()</td></tr>
+<tr class="memdesc:a104b070e317895753cbdecb943bd613c inherit pub_methods_class_pool"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the name of the pool.  <a href="class_pool.html#a104b070e317895753cbdecb943bd613c">More...</a><br /></td></tr>
+<tr class="separator:a104b070e317895753cbdecb943bd613c inherit pub_methods_class_pool"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6cccb6993cfd621c17c4bbd73cb95c2 inherit pub_methods_class_pool"><td c
